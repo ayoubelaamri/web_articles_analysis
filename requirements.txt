@@ -1,0 +1,7 @@
+flask
+python-dotenv
+pandas
+matplotlib
+seaborn
+sklearn
+selenium
