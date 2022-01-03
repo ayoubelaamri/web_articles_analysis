@@ -7,5 +7,7 @@ From scrapping to data visualization with an automated process to get high insig
 
 
 ![Screenshot 2022-01-03 134539](https://user-images.githubusercontent.com/48627888/147932547-e241412c-97d7-49f1-afb3-aa3cc4dcdb8f.png)
+
 ![Picture2](https://user-images.githubusercontent.com/48627888/147932548-8c78526f-0015-4edb-adb2-0f5c7cee820e.png)
+
 ![Picture3](https://user-images.githubusercontent.com/48627888/147932551-4aaeff2b-3ac8-4273-a272-385450d8abf8.png)
